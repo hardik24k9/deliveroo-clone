@@ -4,9 +4,11 @@ This is a React Native project, in which I have created a clone food delivery ap
 
 The initial commit is just a demo version, and currently it does not include payments.
 
-# To view the app , you have to install Expo Go app and paste the below link in the url section
+# To view the App
 
-exp://exp.host/@hardik24k9/deliveroo-clone?release-channel=default
+You have to install Expo Go app and paste the below link in the url section.
+
+Link :- exp://exp.host/@hardik24k9/deliveroo-clone?release-channel=default
 
 
 
